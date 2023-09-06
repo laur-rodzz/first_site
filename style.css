@@ -1,0 +1,51 @@
+
+
+body {
+
+    background-color: #898ED7; 
+    
+}
+
+h2{
+
+    font-family: Impact, Arial; 
+    color: #2D3DC1;
+    font-size: 25pt; 
+
+} 
+h3{
+    font-family: Impact, Arial; 
+    color: #2D3DC1;
+    font-size: 25pt; 
+}
+
+
+p { 
+
+    line-height: 2.5;
+    font-family: Courier, Impact, Arial; 
+    font-size: 12pt; 
+    color: white; 
+
+}
+
+
+li { 
+
+    display: inline-block; 
+    margin-left: 50px;
+    font-family: Courier, Impact, Arial; 
+    font-size: 12pt; 
+    color: white; 
+
+}
+
+img {
+
+    border: 8px solid #555; 
+}
+
+video { 
+
+    border: 8px solid #555;
+}
